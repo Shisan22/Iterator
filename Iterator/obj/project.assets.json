@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Evaluacion2State/Iterator/Iterator/Iterator.csproj",
+      "projectUniqueName": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Iterator/Iterator/Iterator.csproj",
       "projectName": "Iterator",
-      "projectPath": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Evaluacion2State/Iterator/Iterator/Iterator.csproj",
+      "projectPath": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Iterator/Iterator/Iterator.csproj",
       "packagesPath": "/home/eban/.nuget/packages/",
-      "outputPath": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Evaluacion2State/Iterator/Iterator/obj/",
+      "outputPath": "/home/eban/Documentos/arquitectrua de sofware/evaluacion2/Iterator/Iterator/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/eban/.nuget/NuGet/NuGet.Config"
